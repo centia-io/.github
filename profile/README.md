@@ -1,4 +1,4 @@
-## Hi there 👋
+## The open PostgreSQL/PostGIS backend for developers who love control
 
 <!--
 
